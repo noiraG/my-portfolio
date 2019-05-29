@@ -2,51 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54c90797-1ece-4fc7-8e78-fa3b45aecb68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/aboutScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/featuredItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/imgs/glocal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/imgs/msd.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/imgs/profile-pic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/imgs/profile-pic2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/imgs/sia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/landingScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/otherItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/homePage/workScreen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigationBar/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/navigationBar/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/glocalDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/glocalLanding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/imgs/browse.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/imgs/glocalLanding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/imgs/glocalPlanning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/imgs/itinerary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/imgs/list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/glocal/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/msd/imgs/msdLanding.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/msd/imgs/msgLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/msd/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/msd/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/penguin/imgs/eggWithHand.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/penguin/imgs/sheddLogo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/penguin/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/penguin/penguinDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/penguin/penguinLanding.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/projectPages/penguin/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/scrollToTop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/aboutMe.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/glocal.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/projects.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/content/smartEgg.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/projectPages/penguin/styles.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="406">
-              <caret line="176" column="1" lean-forward="true" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+              <caret line="176" column="1" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -80,11 +37,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/homePage/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="357">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding>
                 <element signature="e#0#38#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -173,10 +139,11 @@
         <option value="$PROJECT_DIR$/src/components/projectPages/glocal/styles.scss" />
         <option value="$PROJECT_DIR$/src/components/projectPages/penguin/penguinDetails.js" />
         <option value="$PROJECT_DIR$/src/components/projectPages/penguin/styles.scss" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1585" />
     <option name="width" value="1628" />
     <option name="height" value="1715" />
@@ -269,7 +236,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559170523349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559171298019" />
     <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -319,18 +286,18 @@
       <workItem from="1558562479306" duration="1153000" />
       <workItem from="1558819406226" duration="6684000" />
       <workItem from="1559078373736" duration="1244000" />
-      <workItem from="1559106667190" duration="13539000" />
+      <workItem from="1559106667190" duration="14320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78551000" />
+    <option name="totallyTimeSpent" value="79332000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="634" y="0" width="651" height="686" extended-state="0" />
+    <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.42495784" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20404859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24957842" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -659,20 +626,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/projectPages/penguin/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="176" column="1" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/homePage/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        <state relative-caret-position="357">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/projectPages/penguin/styles.scss">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="176" column="1" lean-forward="true" selection-start-line="176" selection-start-column="1" selection-end-line="176" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="21" column="33" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
         </state>
       </provider>
     </entry>
