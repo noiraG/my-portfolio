@@ -1,0 +1,98 @@
+.glocal-container {
+  height: fit-content;
+  width: fit-content;
+  background-color: #E4E4E4;
+}
+.glocal-landing-container{
+  box-sizing: border-box;
+  height: 80vh;
+  min-height: fit-content;
+  min-width: fit-content;
+  margin: 70px 0 10vh 0;
+  padding: 30px 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: #448D7C;
+
+
+  .glocal-primary-info{
+    color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    min-height: fit-content;
+    width: 35%;
+    flex-grow: 1;
+
+    &_name{
+      font-family: Simplifica;
+      font-size: 4em;
+    }
+    &_description1{
+      font-family: Roboto;
+      font-weight: 500;
+      font-size: 1.2em;
+    }
+    &_description2{
+      font-family: Roboto;
+      font-weight: 300;
+      font-size: 0.9em;
+    }
+  }
+
+  .glocal-landing-img{
+    width: 40%;
+    max-height: 80vh;
+    min-width: 300px;
+    object-fit: contain;
+    flex-grow: 1;
+  }
+  .glocal-secondary-info {
+    width: 25%;
+    min-width: 200px;
+    min-height: fit-content;
+    max-height: 80vh;
+    flex-grow: 1;
+    color: #fff;
+    font-family: Roboto;
+    font-size: 0.9em;
+    font-weight: 300;
+
+    &_heading{
+      margin-top: 20px;
+      font-size: 1.2em;
+      font-weight: 500;
+    }
+  }
+}
+
+.glocal-details{
+  width: 70vw;
+  min-width: inherit;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-family: Roboto;
+  font-size: 0.9em;
+  font-weight: 300;
+  &_heading{
+    margin: 20px 0;
+    font-size: 1.5em;
+    font-weight: 500;
+  }
+  &_imgS{
+    width: 50vw;
+    max-width: 90vh;
+    margin: 30px auto 10px auto;
+  }
+  &_imgL{
+    width: 50vw;
+    min-width: 350px;
+    margin: 10px auto;
+  }
+}
+

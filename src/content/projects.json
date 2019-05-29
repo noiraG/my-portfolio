@@ -1,0 +1,59 @@
+{
+  "featured": [
+    {
+      "name": "Glocal",
+      "description": "A mobile travel companion that allows users to browse through a currated list of interesting hidden gems and places of interest based on their profile. Users can then bookmark locations they are interested in and plan an itinerary around it.",
+      "skills": [
+        "React Native",
+        "Expo",
+        "Node.JS",
+        "Javascript",
+        "XML",
+        "AGILE"
+      ],
+      "image": "glocal.png",
+      "index": 0,
+      "id": "glocal"
+    },
+    {
+      "name": "Professional Attachment @ MSD",
+      "description": "Interned as a Javascript developer in a team working on a new software product. We were developing a react-based web application to be used by clinical researchers and associates to log data and submit reports.",
+      "skills": [
+        "ReactJS",
+        "Node.JS Express",
+        "GraphQL",
+        "Redux",
+        "AGILE/SCRUM",
+        "sass"
+      ],
+      "image": "msd.png",
+      "index": 1,
+      "id": "msd-professional-attachment"
+    },
+    {
+      "name": "Smart Penguin Egg",
+      "description": "A smart penguin egg containing multiple sensors that collects data on the incubation process of penguins at The Shedd Aquarium. The device measures surface temperature on multiple points around the egg and the ambient humidity around it. We also keep track of the orientation of the egg and the amount of weight the penguin exerts on it.",
+      "skills": [
+        "Arduino",
+        "Sensors",
+        "CAD",
+        "Design for Robustness"
+      ],
+      "image": "penguin.png",
+      "index": 2,
+      "id": "smart-penguin-egg"
+    }
+  ],
+  "others": [
+    {
+      "name": "Smart Queue Experience",
+      "image": "sia.png",
+      "id": "smart-queue"
+    },
+    {
+      "name": "Sole-ber",
+      "image": "soleber.png",
+      "id": "sole-ber"
+    }
+  ]
+}

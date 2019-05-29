@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+@font-face {
+  font-family: 'Simplifica';
+  src:url('./fonts/Simplifica/Simplifica.ttf.woff') format('woff'),
+  url('./fonts/Simplifica/Simplifica.ttf.svg#Simplifica') format('svg'),
+  url('./fonts/Simplifica/Simplifica.ttf.eot'),
+  url('./fonts/Simplifica/Simplifica.ttf.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}

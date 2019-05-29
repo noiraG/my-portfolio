@@ -1,0 +1,177 @@
+.penguin-container {
+  background-color: #E4E4E4;
+  height: fit-content;
+}
+
+.landing-container {
+  height: 75vh;
+  margin: 10vh 0;
+  padding: 20px;
+  min-height: fit-content;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-image: url(./imgs/penguinLanding.png);
+  background-size: cover;
+  background-position: 20% 10%;
+
+  .info {
+    box-sizing: padding-box;
+    margin-top: 10vh;
+    margin-left: 3%;
+    width: 30vw;
+    min-width: 300px;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+
+    &_primary-name {
+      font-family: Simplifica;
+      font-size: 35pt;
+    }
+
+    &_primary-description {
+      font-family: Roboto;
+      font-weight: 500;
+      font-size: 15pt;
+    }
+
+    &_secondary-heading {
+      margin-top: 20px;
+      font-size: 12pt;
+      font-weight: 500;
+    }
+
+    &_secondary-description {
+      font-family: Roboto;
+      font-size: 10pt;
+      font-weight: 300;
+      margin-top: 10px;
+    }
+  }
+
+  .client-info {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: center;
+    height: fill;
+    padding-bottom: 10px;
+
+    &_name {
+      color: #fff;
+      margin: 20px 20px 0 0;
+      font-size: 12pt;
+      font-weight: 500;
+    }
+
+    &_logo {
+      width: 30%;
+      min-width: 70px;
+      height: 20%;
+      object-fit: contain;
+    }
+  }
+}
+
+.penguin-hand {
+  width: 15%;
+  min-width: 150px;
+  position: absolute;
+  right: 0;
+  top: 45vh;
+}
+
+.penguin-details {
+  width: 70vw;
+  max-width: 750px;
+  min-width: inherit;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  font-family: Roboto;
+  font-size: 0.9em;
+  font-weight: 300;
+
+  &_heading {
+    margin: 20px 0;
+    font-size: 1.5em;
+    font-weight: 500;
+  }
+
+  &_col {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 250px;
+    width: 60%;
+    flex-grow: 1;
+  }
+  &_col-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-width: 250px;
+    width: 50%;
+    flex-grow: 1;
+  }
+  &_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  &_row-reverse {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap-reverse;
+
+    &_images{
+      display: flex;
+      flex-direction: row;
+      align-items: flex-end;
+      justify-content: space-evenly;
+      margin: 0 auto;
+    }
+  }
+
+  &_imgXS {
+    width: 10vw;
+    height: 10vw;
+    min-height: 80px;
+    min-width: 80px;
+    object-fit: contain;
+    margin: 0 -40px 20px 20px;
+  }
+
+  &_imgS {
+    width: 15vw;
+    height: 15vw;
+    min-height: 130px;
+    min-width: 130px;
+    object-fit: contain;
+    margin: 0 20px 20px 20px;
+  }
+
+  &_imgM {
+    width: 20vw;
+    height: 20vw;
+    min-height: 200px;
+    min-width: 200px;
+    object-fit: contain;
+    margin: 0 auto 20px auto;
+  }
+
+  &_imgL {
+    width: 50vw;
+    min-width: 250px;
+    margin: 10px auto;
+  }
+}

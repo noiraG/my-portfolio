@@ -1,26 +1,57 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
+import HomePage from "./components/homePage"
+import NavigationBar from "./components/navigationBar";
+import {BrowserRouter, Route, withRouter} from "react-router-dom"
+import GlocalScreen from "./components/projectPages/glocal";
+import MSDScreen from "./components/projectPages/msd"
+import PenguinScreen from "./components/projectPages/penguin";
+import ScrollToTop from "./components/scrollToTop"
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const pages = {
+    HOMEPAGE: 'home',
+    GLOCAL: 'glocal',
+    MERCK: 'merck',
+    PENGUIN: 'penguin',
+    SIA: 'sia',
+    SOLEBER: 'soleber'
 }
 
-export default App;
+export default class App extends Component {
+    constructor(props) {
+        super(props)
+        this.state = {
+            page: pages.HOMEPAGE
+        }
+    }
+
+    render() {
+
+        return (
+            <BrowserRouter>
+                <ScrollToTop>
+                    <div className="App">
+                        <Route
+                            exact path="/"
+                            render={() => <HomePage/>}
+                        />
+                        <Route
+                            exact path="/glocal"
+                            render={() => <GlocalScreen/>}
+                        />
+                        <Route
+                            exact path="/msd-professional-attachment"
+                            render={() => <MSDScreen/>}
+                        />
+                        <Route
+                            exact path="/smart-penguin-egg"
+                            render={() => <PenguinScreen/>}
+                        />
+                        <NavigationBar/>
+                    </div>
+                </ScrollToTop>
+            </BrowserRouter>
+        );
+    }
+}
+

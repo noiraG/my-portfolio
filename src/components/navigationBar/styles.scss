@@ -1,0 +1,20 @@
+.navigation-bar-container{
+  position: fixed;
+  top: 0;
+  height: 70px;
+  width: 100%;
+  background-color: #F7F7F7;
+  display: flex;
+  align-items: flex-end;
+  padding-left: 40px;
+  overflow: hidden;
+
+  .home-button{
+    font-family: Simplifica;
+    font-size: 4.5em;
+    margin-bottom: -17px;
+    color: #568184;
+    cursor: pointer;
+  }
+}
+
