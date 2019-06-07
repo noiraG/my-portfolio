@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.7d5e87bc.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.c73490ba.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.c73490ba.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.a0a5975e.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.13c8f0c6.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.13c8f0c6.chunk.js.map",
     "runtime~main.js": "/my-portfolio/static/js/runtime~main.674e5ed7.js",
     "runtime~main.js.map": "/my-portfolio/static/js/runtime~main.674e5ed7.js.map",
-    "static/js/2.c7aed101.chunk.js": "/my-portfolio/static/js/2.c7aed101.chunk.js",
-    "static/js/2.c7aed101.chunk.js.map": "/my-portfolio/static/js/2.c7aed101.chunk.js.map",
+    "static/js/2.be8078ce.chunk.js": "/my-portfolio/static/js/2.be8078ce.chunk.js",
+    "static/js/2.be8078ce.chunk.js.map": "/my-portfolio/static/js/2.be8078ce.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
-    "precache-manifest.b687fbd35db39f20f80bb9bef5227b61.js": "/my-portfolio/precache-manifest.b687fbd35db39f20f80bb9bef5227b61.js",
+    "precache-manifest.194929df6acfab1341c8058274bc86a1.js": "/my-portfolio/precache-manifest.194929df6acfab1341c8058274bc86a1.js",
     "service-worker.js": "/my-portfolio/service-worker.js",
-    "static/css/main.7d5e87bc.chunk.css.map": "/my-portfolio/static/css/main.7d5e87bc.chunk.css.map",
+    "static/css/main.a0a5975e.chunk.css.map": "/my-portfolio/static/css/main.a0a5975e.chunk.css.map",
     "static/media/Image 3.png": "/my-portfolio/static/media/Image 3.24cee030.png",
     "static/media/Image 3@2x.png": "/my-portfolio/static/media/Image 3@2x.79ccb911.png",
     "static/media/index.css": "/my-portfolio/static/media/Simplifica.ttf.9e1865b3.svg",
@@ -38,8 +38,11 @@
     "static/media/sheddLogo.png": "/my-portfolio/static/media/sheddLogo.de7a0e5b.png",
     "static/media/sia.png": "/my-portfolio/static/media/sia.1c5a3ca2.png",
     "static/media/sideViewEgg.png": "/my-portfolio/static/media/sideViewEgg.ac2e5d46.png",
+    "static/media/smartSole.png": "/my-portfolio/static/media/smartSole.d51da9fc.png",
+    "static/media/smartSole2.png": "/my-portfolio/static/media/smartSole2.9e2c0bb9.png",
     "static/media/soleber.png": "/my-portfolio/static/media/soleber.e1859c79.png",
     "static/media/strainEgg.png": "/my-portfolio/static/media/strainEgg.7454ceb3.png",
+    "static/media/team.png": "/my-portfolio/static/media/team.1c38ff3d.png",
     "static/media/topViewEgg.png": "/my-portfolio/static/media/topViewEgg.80c5a7a7.png"
   }
 }
