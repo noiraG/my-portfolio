@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "164cf683a501b51d80d5656c2e0c5789",
+    "revision": "a5bfee1757935213665d6e392f168619",
     "url": "/my-portfolio/index.html"
   },
   {
-    "revision": "3166325f3d72165ce67c",
-    "url": "/my-portfolio/static/css/main.c3f8e6fe.chunk.css"
+    "revision": "58e1e640251a9386c1c8",
+    "url": "/my-portfolio/static/css/main.7d5e87bc.chunk.css"
   },
   {
-    "revision": "fa65dffeab2bcd8ebed8",
-    "url": "/my-portfolio/static/js/2.21d52c27.chunk.js"
+    "revision": "d198ef43b8560b77054c",
+    "url": "/my-portfolio/static/js/2.a47d8766.chunk.js"
   },
   {
-    "revision": "3166325f3d72165ce67c",
-    "url": "/my-portfolio/static/js/main.718d6240.chunk.js"
+    "revision": "58e1e640251a9386c1c8",
+    "url": "/my-portfolio/static/js/main.e3f6cb8a.chunk.js"
   },
   {
     "revision": "f2d15970f74596a69ca7",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ffd35be54acb632c68e357dfda173adf",
     "url": "/my-portfolio/static/media/PrestigeEliteStd.ffd35be5.otf"
+  },
+  {
+    "revision": "227bd0151c5eb026d9ddc6a6ddcabf7c",
+    "url": "/my-portfolio/static/media/Resume.227bd015.pdf"
   },
   {
     "revision": "7c18188784f21915f42a5b3bc9d91e20",
@@ -112,6 +116,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/eggWithHand.a054b1a0.png"
   },
   {
+    "revision": "475f0140628bd22b0d230a7c219dd7ec",
+    "url": "/my-portfolio/static/media/github.475f0140.svg"
+  },
+  {
     "revision": "08f5e4a81ec4f07c5f5f1f226bfd9eac",
     "url": "/my-portfolio/static/media/glocal.08f5e4a8.png"
   },
@@ -128,8 +136,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/my-portfolio/static/media/humidityEgg.11f9191e.png"
   },
   {
+    "revision": "2614c30b1f44c4ab9994ddc1917d67e1",
+    "url": "/my-portfolio/static/media/insta.2614c30b.svg"
+  },
+  {
     "revision": "729de4e23e026a09b4a351c43f6c42d5",
     "url": "/my-portfolio/static/media/itinerary.729de4e2.png"
+  },
+  {
+    "revision": "5756895d15fa6286fc271cac74de3a72",
+    "url": "/my-portfolio/static/media/linkedin.5756895d.svg"
   },
   {
     "revision": "e1d544bc8edcc15391016255c8b1626f",
@@ -174,6 +190,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e1859c7986be0e844864b4642e289467",
     "url": "/my-portfolio/static/media/soleber.e1859c79.png"
+  },
+  {
+    "revision": "41e1aeeb6985d7e177c47e79179a96d5",
+    "url": "/my-portfolio/static/media/soleberBanner.41e1aeeb.png"
   },
   {
     "revision": "7454ceb333e49ddcc137f17dfe9d44a5",
